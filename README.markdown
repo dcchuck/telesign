@@ -1,3 +1,10 @@
+Depreceted Gem Source Code
+==========================
+
+This repo contains code for bundling a rails project that is in need of upgrades.
+
+Original Below
+
 NO LONGER MAINTAINED, USE THIS GEM: https://rubygems.org/gems/telesign/versions/0.0.2
 
 Telesign
